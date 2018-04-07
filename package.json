@@ -1,0 +1,22 @@
+{
+    "name": "floral-shoppe",
+    "displayName": "Floral Shoppe 🌸",
+    "description": "Vaporwave on your vscode",
+    "version": "0.1.0",
+    "publisher": "Colin Fendrick",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Floral Shoppe",
+                "uiTheme": "vs-dark",
+                "path": "./themes/floral-shoppe.json"
+            }
+        ]
+    }
+}
